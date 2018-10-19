@@ -1,6 +1,6 @@
 #Capstone
 
-The project so far: The idea behind my project involves the [1% rule](<https://en.wikipedia.org/wiki/1%25_rule_(Internet_culture)), which states that only one percent of people actually create content on the internet. Most everyone else either interacts with this content or simply consumes it. The goal of the project is too look at the people who post successful content on subforums and then see what other subforums they post in, the idea being that consumers are likely to read subforums that share creators - which likely means some kind of overlap in tone or subject.
+The project so far: The idea behind my project involves the [1% rule](https://en.wikipedia.org/wiki/1%25_rule_(Internet_culture)), which states that only one percent of people actually create content on the internet. Most everyone else either interacts with this content or simply consumes it. The goal of the project is too look at the people who post successful content on subforums and then see what other subforums they post in, the idea being that consumers are likely to read subforums that share creators - which likely means some kind of overlap in tone or subject.
 
 In order to do this I got two servers from AWS that allowed me to scrape data from Reddit continuously for three weeks. In that time I was able to see connections between approximately 21,000 subreddits. Because of restrictions on server time, I was only able to look at a particular subreddit for a few days at a time.
 
